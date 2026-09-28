@@ -1,0 +1,6 @@
+{
+  "name": "WritePilot",
+  "description": "Personal Windows writing assistant that detects spelling mistakes and provides corrections. Write better. Type faster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
